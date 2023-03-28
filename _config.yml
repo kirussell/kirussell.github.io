@@ -31,6 +31,9 @@ github_username:  kirussell
 linkedin_username: kirussell
 instagram_username: metakimruslan
 
+#Analytics
+google_analytics: G-R74WF8VMG5
+
 # Build settings
 theme: minima
 plugins:
