@@ -8,7 +8,7 @@ Hello stranger or good friend!
 Welcome to my personal website and you're reading my First post here!
 
 I've been thinking to create this site for years but never had enough commitment to start not even finish and publish it!
-You can find more [About Me in corresponding section](https://ruslankim.com/](https://www.ruslankim.com/about/)
+You can find more [About Me](https://www.ruslankim.com/about/) in corresponding section
 
 I haven't decided what mainly my text blogs will be about, but there will be a lot about my experience and life for sure!
 
